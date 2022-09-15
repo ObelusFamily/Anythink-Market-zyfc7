@@ -21,5 +21,3 @@ Follow these steps to setup Anythink Market in your local machine:
 - If Docker is working correctly, the backend should be running and able to connect to your local database
 - Check that the backend is working by accessing `http://localhost:3000/api/ping`
 - Check that the frontend is working by creating a new user in `http://localhost:3001/register`
-
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
